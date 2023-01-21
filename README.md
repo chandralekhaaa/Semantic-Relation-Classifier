@@ -1,4 +1,4 @@
-# Semantic-Relation-Classifier
+# Semantic Relation Classifier
 
 Project Description<br/>
 In this project, I have designed and implemented a semantic relation classifier. A semantic relation is a relation between meanings. For example, let us consider the sentence, "A factory manufactures shoes." In this sentence, "shoes" is the product, and "factory" is the producer. Hence, the semantic relation present in this sentence is Product-Producer.
